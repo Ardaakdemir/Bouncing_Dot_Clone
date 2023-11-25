@@ -15,15 +15,13 @@ Left Mouse Button in Pc, Tap on Mobile (Left side turns hexagon right, Right sid
 
 ## Screenshots
 
-![Main Menu](https://github.com/Ardaakdemir/Color_Switch_Game/blob/main/Screenshots/Mainmenu.png)
+![Main Menu](https://github.com/Ardaakdemir/Bouncing_Dot_Clone/blob/main/Screenshots/Start.png)
 
-![Ingame](https://github.com/Ardaakdemir/Color_Switch_Game/blob/main/Screenshots/Ingame.png)
+![Ingame](https://github.com/Ardaakdemir/Bouncing_Dot_Clone/blob/main/Screenshots/Ingame.png)
 
 # If you want to support me :) https://www.buymeacoffee.com/Kregai
 
-![Ingame2](https://github.com/Ardaakdemir/Color_Switch_Game/blob/main/Screenshots/Ingame2.png)
-
-![Restart Screen](https://github.com/Ardaakdemir/Color_Switch_Game/blob/main/Screenshots/Restart.png)
+![Game_Over](https://github.com/Ardaakdemir/Bouncing_Dot_Clone/blob/main/Screenshots/Over.png)
 
 # If you want to support me :) https://www.buymeacoffee.com/Kregai
 
