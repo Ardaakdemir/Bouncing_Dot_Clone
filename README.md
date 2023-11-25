@@ -1,5 +1,6 @@
 # Bouncing_Dot_Clone
-# You Can Play From Here ! [https://play.unity.com/mg/other/color-switch-clone-1](https://play.unity.com/mg/other/bouncing-dot-clone)
+# You Can Play From Here ! [ON PC] https://play.unity.com/mg/other/color-switch-clone-1](https://play.unity.com/mg/other/bouncing-dot-clone
+# You Can Play From Here ! [ON Android APK] https://drive.google.com/file/d/1wF-SjaXxogWKRbELmsuq1yX08Ax9klL0/view?usp=sharing
 
 ## Description
 
