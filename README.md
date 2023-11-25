@@ -1,6 +1,6 @@
 # Bouncing_Dot_Clone
-# You Can Play From Here ! [ON PC] https://play.unity.com/mg/other/bouncing-dot-clone
-# [ON Android APK] https://drive.google.com/file/d/1wF-SjaXxogWKRbELmsuq1yX08Ax9klL0/view?usp=sharing
+# Play it on [PC] https://play.unity.com/mg/other/bouncing-dot-clone
+# Download it on [ANDROID] https://drive.google.com/file/d/1wF-SjaXxogWKRbELmsuq1yX08Ax9klL0/view?usp=sharing
 
 ## Description
 
